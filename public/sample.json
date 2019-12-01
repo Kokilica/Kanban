@@ -1,0 +1,53 @@
+[
+	{
+		"id": "c1a",
+		"type": "column",
+		"name": "TO DO",
+		"items": [
+			{
+				"id": "t1ea",
+				"type": "task",
+				"title": "Milk",
+				"text": "Buy milk at the market"
+			},
+			{
+				"id": "t2ac",
+				"type": "task",
+				"title": "Car",
+				"text": "Wash the car"
+			}
+		]
+	},
+	{
+		"id": "c313",
+		"type": "column",
+		"name": "IN PROGRESS",
+		"items": [
+			{
+				"id": "ts32",
+				"type": "task",
+				"title": "Cat",
+				"text": "Feed the cat"
+			},
+			{
+				"id": "t223s",
+				"type": "task",
+				"title": "Car",
+				"text": "Wash the car"
+			}
+		]
+	},
+	{
+		"id": "c2dd",
+		"type": "column",
+		"name": "DONE",
+		"items": [
+			{
+				"id": "t345a",
+				"type": "task",
+				"title": "Dog",
+				"text": "Walk the dog"
+			}
+		]
+	}
+]
